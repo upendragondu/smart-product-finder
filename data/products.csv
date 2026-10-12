@@ -1,0 +1,16 @@
+product_id,product_name,category,description,price
+1,HP Laptop,Electronics, laptop computer for coding and programming,55000
+2,Dell Laptop,Electronics, laptop computer for students and office work,48000
+3,Wireless Mouse,Accessories, wireless mouse for laptop and computer,800
+4,Mechanical Keyboard,Accessories, keyboard for coding and gaming,2500
+5,Gaming Headphones,Accessories, headphones for gaming and music,3000
+6,Smartphone,Electronics, mobile phone for communication and photography,25000
+7,Tablet,Electronics, portable touchscreen device for reading and entertainment,18000
+8,Office Chair,Furniture, ergonomic chair for office work and study,7000
+9,Study Desk,Furniture, desk for studying and working with a laptop,5000
+10,USB-C Hub,Accessories, USB hub adapter for laptop connectivity,1500
+11,Bluetooth Speaker,Electronics, portable speaker for music and entertainment,2200
+12,Laptop Stand,Accessories, adjustable stand for laptop and desk setup,1200
+13,Running Shoes,Fashion, comfortable shoes for running and exercise,2800
+14,Smart Watch,Electronics, smartwatch for fitness tracking and notifications,6500
+15,External SSD,Electronics, fast external storage drive for computers,4500
